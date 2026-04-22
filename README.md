@@ -246,7 +246,7 @@ NCCoE:    10 filings · AI Agent Identity & Authorization
           Most complete single-framework submission in 319 entries
 ```
 
-IBA priority date: **February 5, 2026**  
+IBA priority date: **February 10, 2026**  
 Every platform, rail, and framework in this document: **post-February 5, 2026**
 
 ---
@@ -269,7 +269,7 @@ IBA Intent Bound Authorization is available for acquisition.
 
 Every managed agent platform on this page needs this layer.  
 One patent. One IETF draft. One priority date.  
-February 5, 2026.
+February 10, 2026.
 
 **Jeffrey Williams**  
 IBA@intentbound.com  
